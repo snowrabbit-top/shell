@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="Shell/jetbrains/Clion/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Clion/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Clion/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Clion/plugins/vuejs/vue-service/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/GoLand/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/GoLand/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/GoLand/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Idea/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Idea/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Idea/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/Idea/plugins/vuejs/vue-service/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/JetBrains Rider-2024.1.2/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/JetBrains Rider-2024.1.2/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/JetBrains Rider-2024.1.2/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/JetBrains Rider-2024.1.2/plugins/vuejs/vue-service/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PhpStorm/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PhpStorm/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PhpStorm/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PhpStorm/plugins/vuejs/vue-service/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PyCharm/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PyCharm/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PyCharm/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/PyCharm/plugins/vuejs/vue-service/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/RustRover/plugins/javascript-base/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/RustRover/plugins/javascript-base/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/RustRover/plugins/javascript-base/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/WebStorm/plugins/javascript-plugin/helpers/package-version-range-matcher/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/WebStorm/plugins/javascript-plugin/helpers/vitest-intellij/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/WebStorm/plugins/javascript-plugin/jsLanguageServicesImpl/typescript/node_modules" />
+    <excludedPredefinedLibrary name="Shell/jetbrains/WebStorm/plugins/vuejs/vue-service/node_modules" />
+  </component>
+</project>
